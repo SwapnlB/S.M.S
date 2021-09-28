@@ -1,5 +1,15 @@
 # My_project
 
+Used libraries :
+1. socket - to verify if the connection is open.
+2. requests, response - to make a http request and return the fetched result.
+3. pandas - to read .csv file data to be graphed.
+4. matplotlib - for plotting the data in a graphical format.
+5. bs4 - for tag based searching
+6. numpy - to avoid overlapping of graphs.
+
+
+
 Steps to run :
 
 1. Make sure python.exe path is set in your environment variables.
